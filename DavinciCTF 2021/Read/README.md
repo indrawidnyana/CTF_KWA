@@ -1,7 +1,7 @@
 # Read - 10 points
 ## Description
 
-![gambar1](DavinciCTF%202021/Read/3.1%20Stegsolve%20soal.png)
+![gambar1](tree/main/DavinciCTF%202021/Read/Resources/3.1%20Stegsolve%20soal.png)
 
 ## Flag
 ```
