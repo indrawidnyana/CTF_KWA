@@ -1,7 +1,7 @@
 # Read - 10 points
 ## Description
 
-![gambar1](/Resources/3.1 Stegsolve soal.png)
+![3 1 Stegsolve soal](https://user-images.githubusercontent.com/54881761/111332168-234dec80-86a4-11eb-85b7-cbc6ed253b24.png)
 
 ## Flag
 ```
