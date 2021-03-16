@@ -1,7 +1,7 @@
 # Dokumentasi CTF - Kacangkeriting
 [![test code style](https://img.shields.io/badge/Author-Indra%20Widnyana-orange)](https://github.com/indrawidnyana)
 [![test code style](https://img.shields.io/badge/NRP-05311840000031-orange)](https://github.com/indrawidnyana)
-[![test code style](https://img.shields.io/badge/Dosen%20Pengajar-Mr.%20Ridho%20Rahman%20Hariadi,%20S.Kom.,%20M.Sc.-orange)](https://id.linkedin.com/in/ridho-rahman-hariadi-bb1402109)
+[![test code style](https://img.shields.io/badge/Dosen%20Pengajar-Ridho%20Rahman%20Hariadi,%20S.Kom.,%20M.Sc.-orange)](https://id.linkedin.com/in/ridho-rahman-hariadi-bb1402109)
 
 ## List Problem
 ### DavinciCTF 2021
